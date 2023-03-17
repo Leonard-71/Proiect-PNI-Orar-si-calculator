@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.876,C:\Users\User\Desktop\FirstApp\XE_10.4\Unit1.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,=C:\Users\User\Desktop\FirstApp\XE_10.4\UnitAutor.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\User\Desktop\FirstApp\XE_10.4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit2.cpp=C:\Users\filip\Desktop\FirstApp\XE_10.4\Calculator.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.dfm=C:\Users\filip\Desktop\FirstApp\XE_10.4\UnitOrar.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.dfm=C:\Users\filip\Desktop\FirstApp\XE_10.4\Orar.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\User\Desktop\FirstApp\XE_10.4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit2.h=C:\Users\filip\Desktop\FirstApp\XE_10.4\Calculator.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\User\Desktop\FirstApp\XE_10.4\FirstApp_xe.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Desktop\FirstApp\XE_10.4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\User\Desktop\FirstApp\XE_10.4\FirstApp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit2.dfm=C:\Users\filip\Desktop\FirstApp\XE_10.4\Calculator.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.h=C:\Users\filip\Desktop\FirstApp\XE_10.4\UnitOrar.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.h=C:\Users\filip\Desktop\FirstApp\XE_10.4\Orar.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.cpp=C:\Users\filip\Desktop\FirstApp\XE_10.4\Orar.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,=C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\User\Desktop\FirstApp\XE_10.4\UnitMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,C:\Users\filip\Desktop\FirstApp\XE_10.4\Unit1.cpp=C:\Users\filip\Desktop\FirstApp\XE_10.4\UnitOrar.cpp</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
